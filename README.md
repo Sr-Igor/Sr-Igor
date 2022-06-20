@@ -43,19 +43,19 @@ Pretendo estudar nos próximos meses: NextJs, Docker, React-Native <br/>
 #### Minhas Redes Sociais
 
 <div>
-  <a href="mailto:sr.igor.dev@gmail.com?" target="_blank">
+  <a href="mailto:sr.igor.dev@gmail.com?">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitter.com/Dev_igorsr" target="_blank">
+  <a href="https://twitter.com/Dev_igorsr">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/igor-rezende-375b231b5/" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-rezende-375b231b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/igorsousas_/" target="_blank">
+  <a href="https://www.instagram.com/igorsousas_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-    <a href="https://www.youtube.com/channel/UCxWE0fKxM0AzFTgupwcM5bA" target="_blank">
+    <a href="https://www.youtube.com/channel/UCxWE0fKxM0AzFTgupwcM5bA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
@@ -65,7 +65,7 @@ Pretendo estudar nos próximos meses: NextJs, Docker, React-Native <br/>
 #### Vídeos dos meus Projetos
 
 <div>
-    <a href="https://www.youtube.com/watch?v=7QyuqAr9CjI" target="_blank">
+    <a href="https://www.youtube.com/watch?v=7QyuqAr9CjI">
        Projeto DevJobs - Apresentação
     </a>
 </div>
