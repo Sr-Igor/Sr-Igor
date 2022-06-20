@@ -75,10 +75,10 @@ Pretendo estudar nos próximos meses: NextJs, Docker, React-Native <br/>
 
 #### Alguns de meus repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=OlxClone-FullSystem&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=DevJobs&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=Netflix-HomePage-ReactJS&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=Form-MultiStep-React-TS&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=OlxClone-FullSystem&show_icons=true&theme=dark&hide_border=true)](https://github.com/Sr-Igor/OlxClone-FullSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=DevJobs&show_icons=true&theme=dark&hide_border=true)](https://github.com/Sr-Igor/DevJobs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=Netflix-HomePage-ReactJS&show_icons=true&theme=dark&hide_border=true)](https://github.com/Sr-Igor/Netflix-HomePage-ReactJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Igor&repo=Form-MultiStep-React-TS&show_icons=true&theme=dark&hide_border=true)](https://github.com/Sr-Igor/Form-MultiStep-React-TS)
 
 <hr/>
 
