@@ -49,7 +49,7 @@ Pretendo estudar nos próximos meses: NextJs, Docker, React-Native <br/>
   <a href="https://twitter.com/Dev_igorsr">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/igor-sousa-375b231b5/">
+  <a href="https://www.linkedin.com/in/igor-rezende-375b231b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/igorsousas_/">
