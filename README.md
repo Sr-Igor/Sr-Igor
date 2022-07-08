@@ -72,6 +72,7 @@ Pretendo estudar nos próximos meses: NextJs, Docker, React-Native <br/>
     <a href="https://www.youtube.com/watch?v=frJ-hib2FfY">
        Projeto OLX clone - (Front & Back)
     </a>
+    <br/>
     <a href="https://youtu.be/71t1Hpa7Rcc">
        Projeto Delivery - (Backend)
     </a> </div>
