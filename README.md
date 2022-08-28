@@ -5,6 +5,8 @@ __Sou desenvolvedor Web Fullstack JR.__ <br/>
 Aos 22 anos, estou terminando minha gradução em Engenharia de Produção <br/>
 Iniciei meus estudos na área da programação há aproximadamente 1 ano.
 
+**ESTOU TRABALHANDO NA ÁREA, DEVIDO A ESSE FATO O NUMERO DE PROJETOS/COMMITS DEVERÁ REDUZIR NESSE PERFIL 
+Entretando ainda sigo estudando no meu tempo livre para aumentar ao maximo minhas Skills **
 
 ## Estado atual ✨
 Estudando: NodeJS <br/>
