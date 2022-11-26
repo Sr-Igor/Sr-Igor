@@ -10,7 +10,7 @@ Entretando ainda sigo estudando no meu tempo livre para aumentar ao maximo minha
 
 ## Estado atual ✨
 Estudando: NextJS + AdonisJS <br/>
-Projeto atual: - <br/>
+Projeto atual: - Won_Games (Server & Client) <br/>
 Pretendo estudar nos próximos meses: Docker, React-Native <br/>
 
 ###### Sem pressa e com objetivos bem definidos, projetei meu caminho e não me importa o tempo, sei que vou chegar
