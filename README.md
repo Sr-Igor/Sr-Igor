@@ -3,15 +3,13 @@
 ## Sobre Mim 👨
 __Sou desenvolvedor Web Fullstack __ <br/>
 Aos 23 anos, estou terminando minha gradução em Engenharia de Produção <br/>
-Iniciei meus estudos na área da programação há mais 1 ano e meio.
+Iniciei meus estudos na área da programação há2 anos.
 
-**ESTOU TRABALHANDO NA ÁREA, DEVIDO A ESSE FATO O NUMERO DE PROJETOS/COMMITS DEVERÁ REDUZIR NESSE PERFIL 
-Entretando ainda sigo estudando no meu tempo livre para aumentar ao maximo minhas Skills **
 
 ## Estado atual ✨
-Estudando: NextJS + AdonisJS <br/>
-Projeto atual: - Won_Games (Server & Client) <br/>
-Pretendo estudar nos próximos meses: Docker, React-Native <br/>
+Estudando: React Native<br/>
+Projeto atual: - <br/>
+Pretendo estudar nos próximos meses: Docker e Python <br/>
 
 ###### Sem pressa e com objetivos bem definidos, projetei meu caminho e não me importa o tempo, sei que vou chegar
 
