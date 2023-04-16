@@ -1,14 +1,14 @@
 # Eu sou Igor Rezende! 👋
 
 ## Sobre Mim 👨
-__Sou desenvolvedor Web Fullstack __ <br/>
+__Sou desenvolvedor Fullstack __ <br/>
 Aos 23 anos, estou terminando minha gradução em Engenharia de Produção <br/>
 Iniciei meus estudos na área da programação há2 anos.
 
 
 ## Estado atual ✨
-Estudando: React Native<br/>
-Projeto atual: - <br/>
+Estudando: -<br/>
+Projeto atual: ICUT(private) <br/>
 Pretendo estudar nos próximos meses: Docker e Python <br/>
 
 ###### Sem pressa e com objetivos bem definidos, projetei meu caminho e não me importa o tempo, sei que vou chegar
