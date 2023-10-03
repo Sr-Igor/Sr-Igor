@@ -1,9 +1,7 @@
 # Eu sou Igor Rezende! 👋
 
 ## Sobre Mim 👨
-__Sou desenvolvedor Fullstack __ <br/>
-Aos 23 anos, estou terminando minha gradução em Engenharia de Produção <br/> 
-
+__Sou desenvolvedor Fullstack e Engenheiro de Produção __ <br/>
 
 ## Estado atual ✨
 Estudando: -<br/>
