@@ -2,8 +2,7 @@
 
 ## Sobre Mim 👨
 __Sou desenvolvedor Fullstack __ <br/>
-Aos 23 anos, estou terminando minha gradução em Engenharia de Produção <br/>
-Atuando na área há 2 anos e meio 
+Aos 23 anos, estou terminando minha gradução em Engenharia de Produção <br/> 
 
 
 ## Estado atual ✨
